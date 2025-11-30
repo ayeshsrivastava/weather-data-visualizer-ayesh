@@ -1,6 +1,6 @@
 # Weather Data Visualizer
 
-**Student:** Ayesh  
+**Student:** Ayesh Srivastava
 **Course:** Programming for Problem Solving using Python
 
 ## Overview
